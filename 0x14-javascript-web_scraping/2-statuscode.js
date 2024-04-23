@@ -1,3 +1,5 @@
+#!/usr/bin/node
+
 const request = require('request');
 // Import the 'request' module.
 
